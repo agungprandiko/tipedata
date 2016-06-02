@@ -1,5 +1,5 @@
 <?php
-//belajar tipe data
+//belajar tipe data 
 /*komentar
 operator
 1. logika (and, &&, or, ||, xor, !)
@@ -11,7 +11,7 @@ operator
 */
 #komentar
 
-$kelas = "13540008"; //string
+$kelas = "13540008"; //string 
 $matkul = "web programing"; //string
 $nim = 12345; //integer
 $ip = 34; //float
@@ -22,6 +22,9 @@ echo "mata kuliah  : $matkul <br>";
 print "NIM : ". $nim; 
 print "<br>";
 printf("IP : %.4f<br>", $ip);
+
+//nama : agung prandiko
+//nim : 13540008
 
 if ($ipk)
 	echo "IPK : LULUS";
